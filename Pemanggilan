@@ -1,0 +1,26 @@
+import bangun_datar
+import perhitungan
+
+print('---Bangun Datar---')
+bangun_datar.luas_segitiga(3,4)
+bangun_datar.keliling_segitiga(5, 10, 10)
+bangun_datar.luas_persegi(6)
+bangun_datar.keliling_persegi(6)
+bangun_datar.luas_persegi_panjang(3,6)
+bangun_datar.keliling_persegi_panjang(6,3)
+bangun_datar.luas_belah_ketupat(5,8)
+bangun_datar.keliling_belah_ketupat(5)
+bangun_datar.luas_jajar_genjang(3,7)
+bangun_datar.keliling_jajar_genjang(5,5)
+
+print('---Perhitungan---')
+perhitungan.tambah(5,7)
+perhitungan.kurang(8,4)
+perhitungan.pangkat(10,5)
+perhitungan.kali(15,5)
+perhitungan.bagi(12,4)
+perhitungan.log(10)
+perhitungan.akar(20)
+perhitungan.sin(30)
+perhitungan.cos(30)
+perhitungan.tan(30)
